@@ -1,4 +1,4 @@
-# Users & Permissions Lab
+# Users and Permissions Lab
 
 ## Task
 
@@ -79,7 +79,6 @@ $ sudo chown labuser file3
 ```
 
 Now if we switch to `labuser` and try editing them, since it has `rw` permissions, we can edit the files!
-
 
 ## Submission
 
